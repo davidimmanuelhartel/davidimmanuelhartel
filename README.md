@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm David 👋
 
-<!--
-**davidimmanuelhartel/davidimmanuelhartel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer @ [VISMA Dinero](https://github.com/DineroRegnskab) · Copenhagen
 
-Here are some ideas to get you started:
+- 🛠 Building gen AI products
+- 🔐 Interested in AI safety — adversarial robustness & scalable oversight
+- 🎓 M.Sc. Human-Centered AI, DTU · B.Sc. Mathematics, Göttingen/Jena
+- 🏃 Runner & 🪊 Trombonist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs%20%2F%20RAG-7C3AED?style=flat)
+![AI Safety](https://img.shields.io/badge/AI%20Safety-DC2626?style=flat)
