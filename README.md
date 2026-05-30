@@ -8,7 +8,5 @@ AI Engineer @ [VISMA Dinero](https://github.com/DineroRegnskab) · Copenhagen
 - 🏃 Runner & 🪊 Trombonist
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs%20%2F%20RAG-7C3AED?style=flat)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-7C3AED?style=flat)
 ![AI Safety](https://img.shields.io/badge/AI%20Safety-DC2626?style=flat)
