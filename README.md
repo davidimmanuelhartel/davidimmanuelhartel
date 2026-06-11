@@ -3,7 +3,6 @@
 AI Engineer @ [VISMA Dinero](https://github.com/DineroRegnskab) · Copenhagen
 
 - 🛠 Building gen-AI products
-- 🔐 Interested in AI security & AI safety — adversarial robustness & scalable oversight
 - 🎓 M.Sc. Human-Centered AI, DTU · B.Sc. Mathematics, Göttingen/Jena
 - 🏃 Runner & 🪊 Trombonist
 
