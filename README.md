@@ -3,7 +3,7 @@
 AI Engineer @ [VISMA Dinero](https://github.com/DineroRegnskab) · Copenhagen
 
 - 🛠 Building gen-AI products
-- 🎓 M.Sc. Human-Centered AI, DTU · B.Sc. Mathematics, Göttingen/Jena
+- 🎓 M.Sc. Human-Centered AI · B.Sc. Mathematics
 - 🏃 Runner & 🪊 Trombonist
 
 
