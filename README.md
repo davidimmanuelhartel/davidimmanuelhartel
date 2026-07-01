@@ -4,7 +4,7 @@ AI Engineer @ [VISMA Dinero](https://github.com/DineroRegnskab) · Copenhagen
 
 - 🛠 Building gen-AI products
 - 🎓 M.Sc. Human-Centered AI · B.Sc. Mathematics
-- 🏃 Runner & 🪊 Trombonist
+- Freetime Runner 🏃 & Trombonist 🪊 
 
 
 ![LLM Applications](https://img.shields.io/badge/LLM%20Applications-7C3AED?style=flat)
